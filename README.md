@@ -1,7 +1,7 @@
 # axlshezard.github.io
 💼 Ingeniero en Sistemas Computacionales | Portfolio web con proyectos en HTML5, CSS3, JavaScript, Python, Java y SQL. Formación en Desarrollo Web y Análisis de Datos por ADIP y Google Data Analytics (Coursera). #FullStack #DataAnalysis
 
-# 💼 Axl Shezard - Portfolio Web
+# 💼 Juan García - Portfolio Web
 
 [![Website](https://img.shields.io/badge/Website-axlshezard.github.io-blue)](https://axlshezard.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Axl_Shezard-blue)](https://linkedin.com/in/tu-perfil)
